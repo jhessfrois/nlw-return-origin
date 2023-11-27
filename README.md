@@ -5,7 +5,7 @@
 > Projeto feito na NLW Return em 2022 com a Rocketseat.
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/moveis-customizados/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-doctorcare/)
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver o site
