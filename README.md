@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Return - Rocketseat" src="https://i.imgur.com/5B09h8T.png" width="200px" />
+  <img alt="Logo NLW Return - Rocketseat" src="https://i.imgur.com/dviFIHN.png" width="200px" />
 </p>
 
 <p align="center">
