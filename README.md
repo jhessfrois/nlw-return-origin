@@ -23,6 +23,8 @@ Aplicação desenvolvida no NLW Return da Rocketseat na trilha Origin.
   <img alt="Preview do projeto desenvolvido." src="./.github/preview.png" width="80%">
 </p>
 
+> Projeto desenvolvido entre os dias 02/05 e 08/05 de 2022
+
 ## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
